@@ -1,0 +1,19 @@
+/node_modules
+/.next
+/out
+/build
+.DS_Store
+*.pem
+npm-debug.log*
+.env
+.env.local
+.env*.local
+/coverage
+next-env.d.ts
+.vercel
+*.tsbuildinfo
+/.apply-screenshots
+# Keep private source docs + resume out of git
+/RESUME_INFO_PORTFOLIO.docx
+/YADAVA_RESUME_2026.pdf
+/public/*.pdf
