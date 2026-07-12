@@ -82,3 +82,7 @@ Real auto-apply grows as you add ATS company slugs. Find companies that use Gree
 
 ## ⚠️ Disclaimer
 For your **personal use only**. Respect each platform's Terms of Service — the assisted model exists precisely so you don't violate them. Never share your `.env.local`.
+
+## Security
+
+Secrets live only in `.env.local` (git-ignored). Never commit your Firebase key, API keys, or personal details. Keep this repo private if you add real data back.
