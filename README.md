@@ -1,5 +1,5 @@
 # NaukriMitra — Yadava's Job Autopilot 🚀
-
+Live: https://naukrimitra.vercel.app/
 A **private, single-user** web app that discovers software / internship / fresher jobs from many sources, **auto-applies** where it's legal and safe, generates AI-tailored cover letters & answers everywhere else, and **tracks every application** on a dashboard with weekly / monthly / all-time stats.
 
 Built with **Next.js 15 · TypeScript · Tailwind · Firebase (Firestore) · OpenAI→Gemini fallback**.
